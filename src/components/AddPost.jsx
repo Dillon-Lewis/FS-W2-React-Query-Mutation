@@ -68,6 +68,7 @@ const AddPost = () => {
             <Button variant="primary" type="submit">
             Submit
             </Button>
+            *Message Will be added to bottom of list
         </Form>
     </Container>
   )
